@@ -1,4 +1,4 @@
-# ApexcifyTechnologys_-ApexcifyTechnologys-Website
+# ApexcifyTechnologys_Apexcify_Technologys_Website
 
 A modern, responsive landing page for **Apexcify Technologies**, designed to showcase innovative technology solutions and educational opportunities for students and young professionals.
 
@@ -47,7 +47,7 @@ A modern, responsive landing page for **Apexcify Technologies**, designed to sho
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** – Semantic and structured markup  
 - **CSS3** – Flexbox, Grid, Animations  
